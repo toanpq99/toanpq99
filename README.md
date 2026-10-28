@@ -22,7 +22,7 @@ I run paid social for a nationwide F&B chain and build the tools behind it: the 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Mì cay SEOUL website** — [micayseoul.com.vn](https://micayseoul.com.vn/) | GPS branch finder, regional menus & prices, GPS-based job applications, table booking, AI chatbot, Wi-Fi marketing integration (Awing) | WordPress, PHP, JS, AI API |
+| **Mì cay SEOUL website** — [micayseoul.com.vn](https://micayseoul.com.vn/) | Two custom plugins (🔒 *source private — access on request*): GPS branch finder on a map, auto-generated pages for every branch, regional menus & prices, GPS-based job applications with a per-store applicant portal, Google Maps reviews sync, multi-provider AI chatbot with budget caps, Wi-Fi marketing integration (Awing) | WordPress, PHP, JS, Leaflet, Claude / OpenAI / Gemini APIs |
 | **SEOUL Ads Engine** 🔒 *private — access on request* | Internal ads platform for \~250 branches: Meta & TikTok campaign builder, multi-phase budget scheduler, spend dashboard, Excel cost reports, billing alerts to Telegram, staff access control. 227 automated tests, zero npm dependencies | Node.js 24, SQLite, Docker, Meta & TikTok APIs |
 | **Device Management System** | Tracks \~30 company laptops: search by MAC or name, current user + handover record, handover history, warranty countdown | PHP, JavaScript |
 
