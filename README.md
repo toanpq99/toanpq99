@@ -16,6 +16,9 @@ I run paid social for a nationwide F&B chain and build the tools behind it: the 
 | 🌐 Website | **\~1.7M organic users** since launch (08/2024), built solo on WordPress |
 | 🤖 AI | "AI SEOUL" chatbot answering customer questions, live since 10/2026 |
 
+### 📈 [See the full Ads case studies →](https://github.com/toanpq99/ads-case-studies)
+Strategy, campaign results and real Meta Ads Manager / GA4 screenshots.
+
 ---
 
 ## 🛠️ Projects
