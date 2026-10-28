@@ -13,6 +13,7 @@ I run paid social for a nationwide F&B chain and build the tools behind it: the 
 | 💰 Ad spend managed | **\~7.74B VND (\~$300K)** across 3 Meta ad accounts (07/2024 – 10/2026) |
 | 🏪 Scale | **\~200 restaurant branches**, from Hai Phong to Ca Mau |
 | 👀 Impressions | **451M+**, largest account reached **33.7M people** |
+| 🏪 Ads → store revenue | Measured with POS data: **+23% to +159%** revenue for campaigns with an opening or offer |
 | 🌐 Website | **\~1.7M organic users** since launch (08/2024), built solo on WordPress |
 | 🤖 AI | "AI SEOUL" chatbot answering customer questions, live since 10/2026 |
 
